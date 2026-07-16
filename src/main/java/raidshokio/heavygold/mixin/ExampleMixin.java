@@ -1,4 +1,4 @@
-package raidshokio.heavygold.mixin;
+package raidshokio.hardcoredesolation.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

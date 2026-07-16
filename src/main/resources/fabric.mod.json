@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "heavy-gold",
+	"id": "hardcore_desolation",
 	"version": "${version}",
-	"name": "heavy-gold",
+	"name": "HardcoreDesolation",
 	"description": ":з",
 	"authors": [
 		"raidshokio"
@@ -16,8 +16,8 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"raidshokio.heavygold.Main",
-			"raidshokio.heavygold.CoalIngot"
+			"raidshokio.hardcoredesolation.Main",
+			"raidshokio.hardcoredesolation.CoalIngot"
 		]
 	},
 	"depends": {

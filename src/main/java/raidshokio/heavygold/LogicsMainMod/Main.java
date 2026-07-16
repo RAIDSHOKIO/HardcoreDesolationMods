@@ -1,4 +1,4 @@
-package raidshokio.heavygold;
+package raidshokio.hardcoredesolation;
 
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.event.lifecycle.v1.ServerTickEvents;

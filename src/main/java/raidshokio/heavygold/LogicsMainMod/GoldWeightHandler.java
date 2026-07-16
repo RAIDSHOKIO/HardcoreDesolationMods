@@ -1,4 +1,4 @@
-package raidshokio.heavygold;
+package raidshokio.hardcoredesolation;
 
 import java.util.HashMap;
 import java.util.UUID;

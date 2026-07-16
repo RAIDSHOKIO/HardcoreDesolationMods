@@ -18,7 +18,7 @@ loom {
 	splitEnvironmentSourceSets()
 
 	mods {
-		"heavy-gold" {
+		"hardcore_desolation" {
 			sourceSet sourceSets.main
 			sourceSet sourceSets.client
 		}

@@ -1,4 +1,4 @@
-# heavy-gold
+# HardcoreDesolationMods
 
 ## Setup
 

@@ -1,4 +1,4 @@
-package raidshokio.heavygold.client;
+package raidshokio.hardcoredesolation.client;
 
 import net.fabricmc.api.ClientModInitializer;
 
