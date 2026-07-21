@@ -14,15 +14,13 @@ public class CoalIngot implements ModInitializer {
 
     public static final Item COAL_INGOT = new Item(new Item.Properties()) {
         @Override
-        public Component getName(ItemStack stack) {
-            return Component.translatable("item.heavy-gold.coal_ingot");
-        }
+        public Component getName(ItemStack stack) { return Component.translatable("item.hardcoredesolation.coal_ingot"); }
     };
 
     @Override
     public void onInitialize() {
         Registry.register(BuiltInRegistries.ITEM,
-                ResourceLocation.fromNamespaceAndPath("heavy-gold", "coal_ingot"),  // namespace можно оставить свой, например heavy-gold
+                ResourceLocation.fromNamespaceAndPath("hardcoredesolation", "coal_ingot"),  // namespace можно оставить свой, например heavy-gold
                 COAL_INGOT);
 
         ItemGroupEvents.modifyEntriesEvent(CreativeModeTabs.INGREDIENTS)
